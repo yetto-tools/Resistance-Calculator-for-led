@@ -1,7 +1,4 @@
-#Tue Oct 10 20:52:17 CST 2017
-base.0=/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e337966fa1c7fb3e4182fea09f278e9053d03d7
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f182687a1b309f121d18ade9d70ef69186d4bd0c/classes.dex
-base.1=/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f182687a1b309f121d18ade9d70ef69186d4bd0c
-file.0=/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e337966fa1c7fb3e4182fea09f278e9053d03d7/classes.dex
+#Mon Dec 18 16:40:42 CST 2017
+base.0=/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

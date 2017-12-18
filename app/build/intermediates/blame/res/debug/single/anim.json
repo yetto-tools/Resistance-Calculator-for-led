@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_fade_out.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_popup_enter.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_fade_in.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_popup_exit.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/anim/abc_slide_in_top.xml"
     }
 ]

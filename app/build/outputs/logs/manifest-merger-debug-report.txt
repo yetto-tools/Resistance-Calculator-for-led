@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:3:5-38
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/6d81c858b51cc8a5d8f1b488eae2c3cf2f006e94/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/a327ce63684d3f2bc36a618469c57e9ab7923613/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/e8176e2e5eabb14d46a252a516ddd50e61d5abbb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/cfa11506ea505d725431c452d77815bd07403d58/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/fef44c9f0301336d56cc2a737a08f34a8559862b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/a6fc536e1e2bb4efdd730662595731c40893e415/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/0f94122ba52d5d5a1aff30d5ddb4782562bf5988/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/5dd558e6ac06ebba6c82276b3f8d84b225d010a7/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/erick/.android/build-cache/52897ff84f810dea07c3590ba509a0db73eee131/output/AndroidManifest.xml:9:5-20
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/efb24ad63b9ea8327eab40b25465361039342ee4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/1b23de180e1ced78fd28d668e90f573f6e5fab04/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/b416c6cc9b5e28e4f42edda97d6a7cedf76bbfa3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/886df5cd7f2435e6398bc1f083f7cdf5683107e2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/e86a2632be5c371d7e923600d65c64cba0f2aad1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/5221e11746c6c1b5f068a86b8c0e62d00f417c06/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/d873d75cd1e1f70567ba0d5993ddba9985c7210b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/c080c27e876832fe38542f95fe8fd48d5f0f7207/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/erick/.android/build-cache/d42e1f875279fdb122de880bc220d3ed661b591f/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.tarea.erick.calcled.MainActivity
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/6d81c858b51cc8a5d8f1b488eae2c3cf2f006e94/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/a327ce63684d3f2bc36a618469c57e9ab7923613/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/e8176e2e5eabb14d46a252a516ddd50e61d5abbb/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/cfa11506ea505d725431c452d77815bd07403d58/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/fef44c9f0301336d56cc2a737a08f34a8559862b/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/a6fc536e1e2bb4efdd730662595731c40893e415/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/0f94122ba52d5d5a1aff30d5ddb4782562bf5988/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/5dd558e6ac06ebba6c82276b3f8d84b225d010a7/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/erick/.android/build-cache/52897ff84f810dea07c3590ba509a0db73eee131/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/efb24ad63b9ea8327eab40b25465361039342ee4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/1b23de180e1ced78fd28d668e90f573f6e5fab04/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/b416c6cc9b5e28e4f42edda97d6a7cedf76bbfa3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/886df5cd7f2435e6398bc1f083f7cdf5683107e2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/e86a2632be5c371d7e923600d65c64cba0f2aad1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/5221e11746c6c1b5f068a86b8c0e62d00f417c06/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/d873d75cd1e1f70567ba0d5993ddba9985c7210b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/c080c27e876832fe38542f95fe8fd48d5f0f7207/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/erick/.android/build-cache/d42e1f875279fdb122de880bc220d3ed661b591f/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
-		INJECTED from /home/erick/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
+		INJECTED from /home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/6d81c858b51cc8a5d8f1b488eae2c3cf2f006e94/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/a327ce63684d3f2bc36a618469c57e9ab7923613/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/e8176e2e5eabb14d46a252a516ddd50e61d5abbb/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/cfa11506ea505d725431c452d77815bd07403d58/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/fef44c9f0301336d56cc2a737a08f34a8559862b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/a6fc536e1e2bb4efdd730662595731c40893e415/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/0f94122ba52d5d5a1aff30d5ddb4782562bf5988/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/5dd558e6ac06ebba6c82276b3f8d84b225d010a7/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/erick/.android/build-cache/efb24ad63b9ea8327eab40b25465361039342ee4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/erick/.android/build-cache/1b23de180e1ced78fd28d668e90f573f6e5fab04/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/erick/.android/build-cache/b416c6cc9b5e28e4f42edda97d6a7cedf76bbfa3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/erick/.android/build-cache/886df5cd7f2435e6398bc1f083f7cdf5683107e2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/erick/.android/build-cache/e86a2632be5c371d7e923600d65c64cba0f2aad1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/erick/.android/build-cache/5221e11746c6c1b5f068a86b8c0e62d00f417c06/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/erick/.android/build-cache/d873d75cd1e1f70567ba0d5993ddba9985c7210b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/erick/.android/build-cache/c080c27e876832fe38542f95fe8fd48d5f0f7207/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/AndroidManifest.xml:26:9-47

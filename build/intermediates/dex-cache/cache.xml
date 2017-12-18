@@ -2,22 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/c080c27e876832fe38542f95fe8fd48d5f0f7207/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="97903c68f604c96d126a8c8f99c1a5412da5d4d6">
-        <dex dex="/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e337966fa1c7fb3e4182fea09f278e9053d03d7/classes.dex" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_303bfb16ffb6309410326ec55e9e10ff842610e5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f182687a1b309f121d18ade9d70ef69186d4bd0c/classes.dex" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_e416808f5c6bdd877f2b8cc55c7ab78d94254773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/b416c6cc9b5e28e4f42edda97d6a7cedf76bbfa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_e74ef1a6c93fd0b1a58842cddb144258f1c65af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/efb24ad63b9ea8327eab40b25465361039342ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_e9aa986d50f437ecb9383a5eb62bfa412f7518bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/d873d75cd1e1f70567ba0d5993ddba9985c7210b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_7c5305cb6ab1161d19eac549b59703f3375537bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/Programacion/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a14a03960799c0f6ca0cde5c8f12c05a0a318987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/Programacion/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_eba1e3586fb5c6fb39f932944d00777f6a2454ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/d42e1f875279fdb122de880bc220d3ed661b591f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_9239d858462728930d02695c4dcba664d61bf584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/5221e11746c6c1b5f068a86b8c0e62d00f417c06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_ed82a22f7dcc9d025036e1242c77c9753fcf3f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/e86a2632be5c371d7e923600d65c64cba0f2aad1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_1128cab9557289a1e86aa2d5826f9907fad1accf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/1b23de180e1ced78fd28d668e90f573f6e5fab04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_222de532c8dce5f2498861047fa3821e6d2f9832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erick/.android/build-cache/886df5cd7f2435e6398bc1f083f7cdf5683107e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/pre-dexed/debug/classes_dab3e165190a16154d13ca3767ef14f1c4f52f6f.jar" />
     </item>
 
 </items>

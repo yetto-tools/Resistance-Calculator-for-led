@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
-        "source": "/home/erick/AndroidStudioProjects/CalcLed/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/home/erick/AndroidStudioProjects/CalcLed/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     }
 ]

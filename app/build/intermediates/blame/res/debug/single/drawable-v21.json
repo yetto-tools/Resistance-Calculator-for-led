@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/home/erick/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/erick/.android/build-cache/1faac3c92cb5906c64007c63258f26256aca98bb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/erick/Programacion/AndroidStudioProjects/CalcLed/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/erick/.android/build-cache/522199c8416d85fbe15f32658ecddf2e8ad062ef/output/res/drawable-v21/abc_btn_colored_material.xml"
     }
 ]
