@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalcLed  (by Erick Rashon)</string>
+    <string name="textView1">"Voltaje Fuente (Vs):"</string>
+    <string name="textView2">"Voltaje Led (Vf):"</string>
+    <string name="textView3">"Corriente del Led (mA):"</string>
+    <string name="textView4">"Resistencia (Ω):"</string>
+    <string name="textView5">"Potencia (W):"</string>
+    <string name="clean">"Limpiar"</string>
+    <string name="ok">"OK"</string>
+
+
+    <string name="msg_clean">Ingrese nuevos valores</string>
+</resources>
